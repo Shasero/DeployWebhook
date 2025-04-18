@@ -83,7 +83,7 @@ fi
 echo
 echo "=== Копирование скриптов в каталог пользователя '$proj_user' ==="
 
-git clone git@github.com:Shasero/DeployWebhook.git
+git clone https://github.com/Shasero/DeployWebhook.git
 
 wait
 
